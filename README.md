@@ -33,7 +33,7 @@ sudo apt install python3 python3-tk
 2. Run the script with root privileges:
 
 ```bash
-sudo python3 FTP.py
+sudo python3 SambaShareSetup.py
 ```
 
 3. In the GUI:
